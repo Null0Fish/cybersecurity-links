@@ -30,6 +30,9 @@ A collection of cybersecurity related links that i have found useful.
 - [Voter Records](https://voterrecords.com/)
 - [OpenCorporates](https://opencorporates.com/)
 
+## Other
+- [Coordinate Locator](https://maps.co/)
+
 ---
 
 ## Hash Cracking & Identificaiton
